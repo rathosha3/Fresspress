@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Jul 20 15:53:24 IST 2022","Wed Jul 20 15:53:33 IST 2022","9177","","Validate the Stanging Url","","","","Validate Successfully Land on Staging by checking Title",""
+"passed","Wed Jul 20 15:52:09 IST 2022","Wed Jul 20 15:52:40 IST 2022","30800","","Validate Accounting SubMenu under Features","","","","can click on a Accounting sub-menu item",""
+"passed","Wed Jul 20 15:52:59 IST 2022","Wed Jul 20 15:53:08 IST 2022","9078","","Test Suites","","","","Check correct Title for Staging Page ",""
+"passed","Wed Jul 20 15:53:33 IST 2022","Wed Jul 20 15:54:02 IST 2022","29160","","Validate the Stanging Url","","","","Validate Try It Free Clikable and Url contains Singup",""
+"passed","Wed Jul 20 15:54:02 IST 2022","Wed Jul 20 15:54:03 IST 2022","476","","Validate the Stanging Url","","","","Validate the correct URL landing page of Try It Free of staging ",""

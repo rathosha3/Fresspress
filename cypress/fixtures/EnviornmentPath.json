@@ -1,0 +1,5 @@
+{
+  "stagingUrl": "https://staging.web.freshenv.com/",
+  "qaUrl": "hello@cypress.io",
+  "stageSignupUrl": "https://staging.web.freshenv.com/signup"
+}
